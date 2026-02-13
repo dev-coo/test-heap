@@ -28,5 +28,5 @@ dist-ssr
 *.jpg
 *.jpeg
 
-# Serena MCP
-.serena/
+# Serena MCP cache
+.serena/cache/
